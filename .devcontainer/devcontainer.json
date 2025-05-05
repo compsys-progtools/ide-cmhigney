@@ -1,0 +1,12 @@
+{
+    "image": "mcr.microsoft.com/devcontainers/universal:2",
+    "extensions": [
+      "vsls-contrib.codetour",     
+      "ms-python.python"           
+    ],
+    "postCreateCommand": "python3 --version",
+    "settings": {
+      "terminal.integrated.defaultProfile.linux": "bash"
+    }
+  }
+  

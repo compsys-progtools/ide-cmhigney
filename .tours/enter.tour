@@ -1,0 +1,16 @@
+{
+  "$schema": "https://aka.ms/codetour-schema",
+  "title": "Enter",
+  "steps": [
+    {
+      "file": "main.py",
+      "description": "This function returns a greeting for the name given",
+      "line": 1
+    },
+    {
+      "file": "main.py",
+      "description": "This calls the function and prints the result",
+      "line": 4
+    }
+  ]
+}
